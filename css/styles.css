@@ -570,6 +570,8 @@ footer {
 @media only screen and (max-width: 785px) {
   .nav .navtop {
     width: 95%; }
+    .nav .navtop .navbtns {
+      width: 70%; }
 
   .hero {
     height: 80vh; }
